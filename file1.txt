@@ -1,3 +1,4 @@
 fourth -my branch
 fifth -my branch
 some hot fix
+function 1 added
